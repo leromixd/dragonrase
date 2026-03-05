@@ -54,7 +54,7 @@
     </ul>
 
     <div class="card">
-        <img src="https://cdn4.telesco.pe/file/br4qiADVWO5frl7JzrJlbiFE1SnFNj7zvjteo7jKEtHx7DWsgQjV3kuveZoAuhl3vNTOntXvS4iVZVcCB1CFhcSBcZD8fpyLYs0VUQepT_d0oOqEqBSV64yRtyOPGbeb9NcJOGtTQm8RLbcG9Cvva1M2bL20fdsr8Hwp-zLWn7js3uBFwlWAzfNZR16WscaZg0WoIcAMRBQBdbSX-llM6rLJAhWeBrAi-cHTzkv4x9bRDrtP8ywo1aEwmD3cHSOc6yrUApH3ZbuGytrMQRhmTdbfXfo4P2GoGClUlhAvAwVSZ756u8AVee1wsVbK0VMwpLVV4X22J8DembGvkd2RrA.jpg" alt="Avatar" class="profile-img">
+        <img src="https://i.ibb.co/0j4yBPQX/IMG-9437.jpg" alt="Avatar" class="profile-img">
         
         <h1>dragonrase</h1>
         <p>Ethical Hacker & Security Specialist.<br>Делаю деньги за взломы серверов. Занимаюсь сносом роблокс плейсов. Исследую цифровой мир.</p>
